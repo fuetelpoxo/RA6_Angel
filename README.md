@@ -26,3 +26,23 @@ Para instalar local
 
 
 3. compila y ejecuta el proyecto
+
+## Uso
+
+
+El sitema de veterinario incluye lo siguiente 
+
++ solicitud gestio
++ acceso y consulta
++ comunicacion entre opacientes
++ administracion del personal 
++ revision de informes
++ gestion de facturas
+
+
+Para utiizar la aplicacion
+
+**Usuario**    **funcionalidad**
+|--------------------------------|
+Paciente  | solicita citas,accede a su historial,contacta medico
+|-------------------|
