@@ -47,3 +47,9 @@ Para utiizar la aplicacion
 |Paciente  | solicita citas,accede a su historial,contacta medico|
 |veterianrio  | solicita citas,accede a su historial,contacta medico
 |administracion  | solicita citas,accede a su historial,contacta medico|
+
+
+Lo representamos a traves del siguiente diagrama 
+
+
+![GNU](./img/captura.jpg)
