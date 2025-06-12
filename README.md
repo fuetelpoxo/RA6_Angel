@@ -43,6 +43,6 @@ El sitema de veterinario incluye lo siguiente
 Para utiizar la aplicacion
 
 |**Usuario**    | **funcionalidad**|
-|   -------        |     ----------   |
+|      ----------   |
 |Paciente  | solicita citas,accede a su historial,contacta medico|
 |-------------------|
