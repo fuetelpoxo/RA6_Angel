@@ -5,10 +5,12 @@
 
 
 * Documentacion de aplicacion veterinaria
-   * [Indice](##Indice)
-   * [Introduccion](##Introduccion)
-   * [uso](uso)
-   * [instalacion](subvencion)
+   * [Indice](#indice)
+   * [Introduccion](#introduccion)
+   * [Uso](#uso)
+   * [Contribucion](#contribucion)
+   * [Subvencion](#subvencion)
+
 
 
 ## Introduccion
@@ -76,4 +78,4 @@ Para mas informacion consulta [documentacion tecnica](MARDON.md)
 
 colaboradores
 
-![miguelherrero](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linkedin.com%2Fschool%2Fies-miguel-herrero-pereda%2F&psig=AOvVaw3VdzBTHQJCfhaSC4inqlEE&ust=1749834147783000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC__aeu7I0DFQAAAAAdAAAAABAE)
+![miguelherrero](https://ethic.es/wp-content/uploads/2023/03/imagen.jpg)
