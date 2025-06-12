@@ -72,4 +72,4 @@ Lo representamos a traves del siguiente diagrama
 Este proyecto esta subencionado por el [Gobierno de España](https://www.infosubvenciones.es/bdnstrans/GE/es/inicio)
 ***
 
-
+Para mas informacion consulta [documentacion tecnica](MARDON.md)
