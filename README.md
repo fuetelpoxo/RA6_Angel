@@ -21,3 +21,8 @@ Para instalar local
 
 ```bash git clone https://...```
 
+
+2. abre el proyecto
+
+
+3. compila y ejecuta el proyecto
