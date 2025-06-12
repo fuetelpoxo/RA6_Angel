@@ -1,11 +1,11 @@
 # RA6_Angel
-#Documentacion de aplicacion veterinaria
+# Documentacion de aplicacion veterinaria
 ***
-##Indice
+## Indice
 
 
-*Documentacion de aplicacion veterinaria
-*[indice](indice)
-*[intro](intro)
-*[uso](uso)
-*[instalacion](subvencion)
+* Documentacion de aplicacion veterinaria
+* [indice](indice)
+* [intro](intro)
+* [uso](uso)
+* [instalacion](subvencion)
