@@ -19,5 +19,5 @@ El sitema de gestio loren ipsun loren ipsun loren ipsin **IES miguel herrero per
 Para instalar local
 1. Clona repositorio 
 
-```bash git clone https://...```
+`git clone https://...`
 
