@@ -53,3 +53,23 @@ Lo representamos a traves del siguiente diagrama
 
 
 ![GNU](./img/captura.jpg)
+
+
+## Contribucion
+
+
+¿quieres colaborar?
+
+
+   1. Haz un clone del repositorio
+   2. crea una nueva rama(`git checkout -b feature`)
+   3. crea una nueva rama(`git checkout -b feature`)
+   4. crea una nueva rama(`git checkout -b feature`)
+   5. abre pull request
+
+## Subvencion
+
+Este proyecto esta subencionado por el [Gobierno de España](https://www.infosubvenciones.es/bdnstrans/GE/es/inicio)
+***
+
+
