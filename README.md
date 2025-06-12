@@ -73,3 +73,7 @@ Este proyecto esta subencionado por el [Gobierno de España](https://www.infosub
 ***
 
 Para mas informacion consulta [documentacion tecnica](MARDON.md)
+
+colaboradores
+
+![miguelherrero](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linkedin.com%2Fschool%2Fies-miguel-herrero-pereda%2F&psig=AOvVaw3VdzBTHQJCfhaSC4inqlEE&ust=1749834147783000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC__aeu7I0DFQAAAAAdAAAAABAE)
