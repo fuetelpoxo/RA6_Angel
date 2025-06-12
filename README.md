@@ -5,10 +5,10 @@
 
 
 * Documentacion de aplicacion veterinaria
-* [Indice](##Indice)
-* [Introduccion](##Introduccion)
-* [uso](uso)
-* [instalacion](subvencion)
+   * [Indice](##Indice)
+   * [Introduccion](##Introduccion)
+   * [uso](uso)
+   * [instalacion](subvencion)
 
 
 ## Introduccion
@@ -19,5 +19,5 @@ El sitema de gestio loren ipsun loren ipsun loren ipsin **IES miguel herrero per
 Para instalar local
 1. Clona repositorio 
 
-`git clone https://...`
+```bash git clone https://...```
 
